@@ -72,7 +72,21 @@ header .textos-header{
     font-weight: 300;
     color:#fff;
 }
+.texto-historia {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #f56b6b;
+}
 
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
 .wave{
     position: absolute;
     bottom: 0;
